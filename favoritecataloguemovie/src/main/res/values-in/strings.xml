@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite Movie Catalogue</string>
+
+    <string name="title_home">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="movie_catalogue">Film</string>
+    <string name="tv_catalogue">Tv</string>
+    <string name="search">Cari</string>
+
+    <string name="setting">Pengaturan</string>
+
+    <string name="loading">Mohon tunggu..</string>
+    <string name="poster">Poster</string>
+
+    <string name="title">Judul</string>
+    <string name="desc">Sinopsis</string>
+    <string name="language">Bahasa</string>
+    <string name="voteCount">Jumlah Pemilih</string>
+    <string name="rating">Penilaian</string>
+    <string name="dateTv">Tayang Pertama Kali</string>
+    <string name="dateMovie">Tanggal Rilis</string>
+    <string name="failed">Periksa koneksi internet anda</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="detail_info">Info Detil</string>
+    <string name="emptymessage">Kamu belum menambahkan satupun item ke Favorite</string>
+    <string name="searchmessage">Cari Film atau Seri Tv di sini</string>
+
+    <string name="addFavToast">Di tambahkan ke Favorite</string>
+    <string name="delFavToast">Di hapus dari Favorites</string>
+
+</resources>

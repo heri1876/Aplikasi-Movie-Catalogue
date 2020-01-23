@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.shadow.favoritecataloguemovie"
+    tools:ignore="GoogleAppIndexingWarning">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.shadow.moviecatalogue.READ_DATABASE" />
+    <uses-permission android:name="com.shadow.moviecatalogue.WRITE_DATABASE" />
+
+    <application
+        android:name=".config.MovieCatalogueApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_play"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_play"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ui.detail.MovieDetailActivity"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".ui.detail.TvDetailActivity"
+            android:theme="@style/AppTheme2" />
+        <activity android:name=".ui.main.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

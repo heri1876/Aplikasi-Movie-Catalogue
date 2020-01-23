@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Favorite Movie Catalogue</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="movie_catalogue">Movie</string>
+    <string name="tv_catalogue">Tv</string>
+    <string name="search">Search</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="loading">Please Wait..</string>
+    <string name="poster">Poster</string>
+
+    <string name="title">Title</string>
+    <string name="desc">Synopsis</string>
+    <string name="language">Language</string>
+    <string name="voteCount">Vote Count</string>
+    <string name="rating">Rating</string>
+    <string name="dateTv">First Air Date</string>
+    <string name="dateMovie">Release Date</string>
+    <string name="failed">Please check your internet</string>
+    <string name="retry">Retry</string>
+    <string name="detail_info">Detail Info</string>
+    <string name="emptymessage">You Haven\'t added any items to Favorite</string>
+    <string name="searchmessage">Search for Movies or Tv Series here</string>
+
+    <string name="addFavToast">Add to Favorites</string>
+    <string name="delFavToast">Delete from Favorites</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="movie_catalogue">Movie</string>
+    <string name="tv_catalogue">Tv</string>
+    <string name="search">Search</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="loading">Please Wait..</string>
+    <string name="poster">Poster</string>
+
+    <string name="title">Title</string>
+    <string name="desc">Synopsis</string>
+    <string name="language">Language</string>
+    <string name="voteCount">Vote Count</string>
+    <string name="rating">Rating</string>
+    <string name="dateTv">First Air Date</string>
+    <string name="dateMovie">Release Date</string>
+    <string name="failed">Please check your internet</string>
+    <string name="retry">Retry</string>
+    <string name="detail_info">Detail Info</string>
+    <string name="emptymessage">You Haven\'t added\nany items to Favorite</string>
+    <string name="searchmessage">Search for Movies\nor Tv Series here</string>
+
+    <string name="addFavToast">Add to Favorites</string>
+    <string name="delFavToast">Delete from Favorites</string>
+    <string name="widget_text">Favorite Movie</string>
+
+    <string name="daily_message">Heyy!!, Catalogue Movie miss you :(</string>
+    <string name="release_message">Heyy!!, new Movie has been released</string>
+    <string name="release_reminder_title">Release Reminder</string>
+    <string name="release_reminder_description">Reminder showing the \nmovie that released today</string>
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_description">Remind for return to App</string>
+
+    <string name="dailyReminderOff">Daily Reminder turn off</string>
+    <string name="dailyReminderOn">Daily Reminder turn on</string>
+    <string name="releaseReminderOn">Release Reminder turn on</string>
+    <string name="releaseReminderOff">Release Reminder turn off</string>
+
+</resources>

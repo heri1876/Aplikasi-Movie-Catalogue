@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+
+    <string name="title_home">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="movie_catalogue">Film</string>
+    <string name="tv_catalogue">Tv</string>
+    <string name="search">Cari</string>
+
+    <string name="setting">Pengaturan</string>
+
+    <string name="loading">Mohon tunggu..</string>
+    <string name="poster">Poster</string>
+
+    <string name="title">Judul</string>
+    <string name="desc">Sinopsis</string>
+    <string name="language">Bahasa</string>
+    <string name="voteCount">Jumlah Pemilih</string>
+    <string name="rating">Penilaian</string>
+    <string name="dateTv">Tayang Pertama Kali</string>
+    <string name="dateMovie">Tanggal Rilis</string>
+    <string name="failed">Periksa koneksi internet anda</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="detail_info">Info Detil</string>
+    <string name="emptymessage">Kamu belum menambahkan\nsatupun item ke Favorite</string>
+    <string name="searchmessage">Cari Film\natau Seri Tv di sini</string>
+
+    <string name="addFavToast">Di tambahkan ke Favorite</string>
+    <string name="delFavToast">Di hapus dari Favorites</string>
+
+    <string name="widget_text">Film Favorit</string>
+
+    <string name="daily_message">Heyy !, Catalogue Movie merindukan mu :(</string>
+    <string name="release_message">Heyy!!, Film baru telah dirilis</string>
+    <string name="release_reminder_title">Pengingat Release</string>
+    <string name="release_reminder_description">Pengingat yang menampilkan movie \nyang release hari ini</string>
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_description">Mengingatkan untuk kembali ke App</string>
+
+    <string name="dailyReminderOff">Pengingat Harian dimatikan</string>
+    <string name="dailyReminderOn">Pengingat Harian dinyalan</string>
+    <string name="releaseReminderOn">Pengingat Release dimatikan</string>
+    <string name="releaseReminderOff">Pengingat Release dinyalan</string>
+
+</resources>
